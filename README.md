@@ -12,7 +12,7 @@ Android 飞行员驾驶证图片合成。你可以根据实际项目需求进行
 
 ![image](https://github.com/ccwant/PilotCertificate/blob/master/Doc/boot2.png)
 
-![image](https://github.com/ccwant/PilotCertificate/blob/master/Doc/boot3.jpg)
+![image](https://github.com/ccwant/PilotCertificate/blob/master/Doc/boot3.png)
 
 ## 下载APK体验
 [Download Apk](https://github.com/ccwant/PilotCertificate/raw/master/Apk/PilotCertificate.apk) 
